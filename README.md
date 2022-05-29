@@ -1,2 +1,3 @@
-# 01_EV_Charger_Prediction
- 
+# EV Charger Prediction
+EV Station is a start-up company providing multi-type EV Chargers for all types of EVs on the market. The company has successfully installed over 10K EV Chargers over 10 states in the United States, and are looking to enter the Canadian EV charging market. EV Station data science team was consulted by the management team for estimating the Canadian market size. The management would like to investigate the estimated number of additional EV chargers needed currently in Canada, revenue for the company if they fill the gap, and how it will be needed in the next few years. 
+
